@@ -1,0 +1,15 @@
+# Lake build directory
+.lake/
+build/
+
+# Lean compiled objects
+*.olean
+*.ilean
+*.c
+*.o
+
+# Editor temporary files
+*~
+*.swp
+.DS_Store
+.vscode/.lake
